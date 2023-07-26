@@ -1,1 +1,1 @@
-TIC TAC TOE is a core java project.It is actually a two player game.There is a board of n*n squares and the goal is to be one of the players to get three same symbols in a row-horizontally,vertically or diagonally.
+Tic Tac Toe is a core java project.It is actually a two player game.There is a board of n*n squares and the goal is to be one of the players to get three same symbols in a row-horizontally,vertically or diagonally.
